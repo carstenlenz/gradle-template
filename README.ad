@@ -1,0 +1,16 @@
+= Sample Project with Gradle wrapper
+To help show off Gradle in a quick fashion without installing Gradle itself
+
+== How to start
+
+=== settings.gradle
+Edit `settings.gradle` and change the project name
+[source,groovy]
+----
+rootProject.name = 'my-cool-project'
+----
+
+=== build.gradle
+Apply plugins as you want :)
+
+
